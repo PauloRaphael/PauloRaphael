@@ -1,25 +1,51 @@
+````Javascript
+class Bio extends SoftwareDeveloper {
+  name     = 'Paulo Raphael Silva Brito';
+  title    = 'Software Developer';
+  company  = 'Craft Multimodal';
+  location = 'Osasco, SP';
+}
+````
 
-# Paulo Raphael Silva Brito
-
-## 🚀 Sobre mim
-Eu estudo programação desde os 14 anos de idade de forma completamente auto ditata, tenho paixão por tecnologia e programação desde que me entendo por gente, e pretendo desenvolver cada vez mais essa paixão.
-
-
-## 🔗 Conecte-se comigo!
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.hackerrank.com/Tubande)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-raphael-silva-brito-223853233)
+````bash
+> help --info
+> Um guitarrista e gamer que infelizmente ama java, mas tem um espaço no coração pra C# e .NET. Está formando uma 
+> carreira solida com desenvolvedor. Vive pelo compartilhamente de informação e conteudo. Atualmente trabalha como 
+> estagiario de TI na Craft Multimodal, e faz Analise e desenvolvimento de sistemas na Uninove.
+````
 
 
-## 🛠 Habilidades
 
+## Linguagens
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-- ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-- ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
-- PHP
-- ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-- ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-- MySQL
-- ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
-- 	![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-- ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=007396)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/C-000?style=flat&logo=c&Color=007396)
+![C++](https://img.shields.io/badge/C%2B%2B-000?style=flat&logo=c%2B%2B&logoColor=007396)
+![C#](https://img.shields.io/badge/C%23-000?style=flat&logo=c-sharp&logoColor=007396)
+
+## Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do PauloRaphael">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRaphael&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paulo-raphael-silva-brito-223853233/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paulo-raphael-silva-brito-223853233/))
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Paulo.Raphael.Web@gmail.com)](mailto:Paulo.Raphael.Web@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/PauloRaphael)
