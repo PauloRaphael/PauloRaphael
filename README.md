@@ -40,9 +40,7 @@ class Bio extends SoftwareDeveloper {
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do PauloRaphael">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRaphael&theme=dracula&show_icons=true" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloRaphael&theme=dracula&show_icons=true" />
 
 ## Onde me encontrar
 
