@@ -44,6 +44,6 @@ class Bio extends SoftwareDeveloper {
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-PauloRaphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paulo-raphael-silva-brito-223853233/))]([LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/paulo-raphael-silva-brito-223853233/))
+[![Linkedin](https://img.shields.io/badge/-PauloRaphael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN])](https://www.linkedin.com/in/paulo-raphael-silva-brito-223853233)
 [![Gmail Badge](https://img.shields.io/badge/-Paulo.Raphael.Web@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Paulo.Raphael.Web@gmail.com)](mailto:Paulo.Raphael.Web@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/PauloRaphael)
